@@ -1,0 +1,5 @@
+{
+  'message': 'hello',
+  'yyyymmdd': 20220501,
+  'list': ['abc', 'def', 'ghi']
+}
